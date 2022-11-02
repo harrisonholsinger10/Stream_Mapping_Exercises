@@ -4,6 +4,12 @@ import java.util.List;
 import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 
+/*
+Stream Exercises:
+Practice using stream functions such as filter(), forEach(), map(), reduce(), collect(), distinct(), and sort()
+As well as using lambda expressions.
+*/
+
 public class basicStreams
 {
     public static void printOddNumbersInList(List<Integer> numbers)
