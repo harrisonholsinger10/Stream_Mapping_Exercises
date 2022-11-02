@@ -2,6 +2,12 @@ package com.example.demo;
 
 import java.util.Map;
 
+/*
+Mapping Exercises:
+Practice using maps with a key, value pair
+Use the functions that come with mapping 
+*/
+
 public class mapExamples
 {
     public static Map<String, String> mapBully(Map<String, String> map)
